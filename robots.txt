@@ -1,1 +1,1 @@
-Sitemap: https://showmeclassicparts.github.io/sitemap_location.xml
+Sitemap: https://showmeclassicparts.github.io/index.html
